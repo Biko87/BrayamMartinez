@@ -6,12 +6,6 @@ I am a professional in Telecommunications Engineering, graduated from the Nation
 
 ### My work tools with:
 
-- ![](https://cdn.iconscout.com/icon/free/png-256/php-27-226042.png) 
-- Javascript;
-- Python;
-- SQL;
-- Bootstrap;
-- Hmtl 5;
-- CSS 3;
+![](https://cdn.iconscout.com/icon/free/png-256/php-27-226042.png) ![](https://images.vexels.com/media/users/3/166477/isolated/lists/9bb722f0e85ddbc1ce0f064534fd2311-icono-del-lenguaje-de-programacion-python.png) ![](https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png) ![](https://findicons.com/files/icons/2420/coded/256/sql.png) ![](https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png) ![](https://cdn.iconscout.com/icon/free/png-256/bootstrap-7-1175254.png)
 
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://w7.pngwing.com/pngs/270/145/png-transparent-php-web-development-javascript-logo-c-others-blue-text-trademark.png) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
+
