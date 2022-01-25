@@ -6,7 +6,7 @@ I am a professional in Telecommunications Engineering, graduated from the Nation
 
 ### My work tools with:
 
-- PHP;
+- ![](https://cdn.iconscout.com/icon/free/png-256/php-27-226042.png) 
 - Javascript;
 - Python;
 - SQL;
